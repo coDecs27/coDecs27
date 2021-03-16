@@ -5,4 +5,4 @@ Finished the 9-week web development course at Le Wagon Berlin recently  💪
 <br>
 Now looking to improve my coding skills on a daily basis and kick-start my new tech career 💻
 
-<pre>Eat  :fork_and_knife:   Sleep  :sleeping:   Code :computer:</pre>
+Eat  :fork_and_knife: &nbsp;&nbsp; Sleep  :sleeping: &nbsp;&nbsp; Code :computer:
